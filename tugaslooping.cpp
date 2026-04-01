@@ -41,3 +41,7 @@ void tampilBilPrim() {
     else {
         cout << n << " bukan bilangan prima." << endl;}
 }
+
+void tampilBilFibo() {
+
+}
