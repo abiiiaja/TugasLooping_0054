@@ -35,3 +35,6 @@ void inputAngka() {
     cin >> n;
 }
 
+void tampilBilPrim() {
+
+}
