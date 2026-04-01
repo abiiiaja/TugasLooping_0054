@@ -29,3 +29,8 @@ bool BilFibo(int n) {
     }
     return false;
 }
+
+void inputAngka() {
+
+}
+
