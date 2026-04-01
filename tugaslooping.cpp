@@ -57,3 +57,10 @@ void menu() {
     cout << "Pilih menu: ";
     cin >> pilihan;
 }
+
+int main() {
+
+    while (true) {
+        menu();
+    }
+}
