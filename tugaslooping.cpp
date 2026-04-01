@@ -45,5 +45,7 @@ void tampilBilPrim() {
 void tampilBilFibo() {
     if (BilFibo(n)) {
         cout << n << " termasuk bilangan Fibonacci." << endl;}
+    else {
+        cout << n << " bukan bilangan Fibonacci." << endl;}
 
 }
