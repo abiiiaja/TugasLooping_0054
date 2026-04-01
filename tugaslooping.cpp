@@ -62,5 +62,24 @@ int main() {
 
     while (true) {
         menu();
+        
+        switch (pilihan) {
+            case 1:
+                inputAngka();
+                tampilBilPrim();
+                break;
+
+            case 2:
+                inputAngka();
+                tampilBilFibo();
+                break;
+
+            case 0:
+                cout << "Program selesai." << endl;
+                return 0;
+
+            default:
+                cout << "Pilihan tidak valid!" << endl;
+        }
     }
 }
