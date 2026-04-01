@@ -32,5 +32,6 @@ bool BilFibo(int n) {
 
 void inputAngka() {
     cout << "Masukkan angka: ";
+    cin >> n;
 }
 
