@@ -15,3 +15,7 @@ bool BilPrim(int n) {
     }
     return true;
 }
+
+bool BilFibo(int n) {
+
+}
